@@ -1,0 +1,9 @@
+.item-text{
+    font-size: 30px;
+    font-family: Calibri,sans-serif;
+}
+.edit-me img, .delete-me img{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
